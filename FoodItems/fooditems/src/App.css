@@ -1,0 +1,12 @@
+.kg_item{
+  background-color:rgb(240, 240, 240);
+}
+.fooditem{
+  font-weight:500;
+  font-size: 25px;
+  color:rgb(23, 22, 22);}
+
+.heading{
+  text-align:center;
+  color:rgb(12, 12, 12);
+}

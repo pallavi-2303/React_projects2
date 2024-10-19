@@ -1,0 +1,17 @@
+
+input{
+  width:100%;
+}
+
+.kg-row{
+  margin:10px 5px;
+}
+.kg-button{
+ min-width:80px; 
+ font-weight:700;
+}
+.welcome{
+  font-size: 70px;
+  margin-top: 50px;
+  font-weight: 900;
+}
